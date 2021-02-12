@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on James Le Nguyen</title>
-    <link>ikellog.github.io/posts/</link>
+    <link>https://ikellog.github.io/posts/</link>
     <description>Recent content in Posts on James Le Nguyen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Jan 2021 00:00:00 -0800</lastBuildDate><atom:link href="ikellog.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Jan 2021 00:00:00 -0800</lastBuildDate><atom:link href="https://ikellog.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New Year</title>
-      <link>ikellog.github.io/posts/anewyear/</link>
+      <link>https://ikellog.github.io/posts/anewyear/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:00 -0800</pubDate>
       
-      <guid>ikellog.github.io/posts/anewyear/</guid>
+      <guid>https://ikellog.github.io/posts/anewyear/</guid>
       <description>2021 comes with it the traditional New year’s resolution and some artificial motivation—had focused on learning SQL syntax and more Python in the meantime. Did I mention I think database are cool!</description>
     </item>
     
     <item>
       <title>Motivation loss</title>
-      <link>ikellog.github.io/posts/motivationloss/</link>
+      <link>https://ikellog.github.io/posts/motivationloss/</link>
       <pubDate>Tue, 15 Dec 2020 00:00:00 -0800</pubDate>
       
-      <guid>ikellog.github.io/posts/motivationloss/</guid>
+      <guid>https://ikellog.github.io/posts/motivationloss/</guid>
       <description>Started a new computer science course but had slowly loss motivation due to the material’s dryness. I’m certain it’s a good course to learn despite the difficulties in staying focus—will have to get back in to in soon. Time is of the essence!</description>
     </item>
     
     <item>
       <title>Setbacks</title>
-      <link>ikellog.github.io/posts/setbacks/</link>
+      <link>https://ikellog.github.io/posts/setbacks/</link>
       <pubDate>Sun, 15 Nov 2020 00:00:00 -0800</pubDate>
       
-      <guid>ikellog.github.io/posts/setbacks/</guid>
+      <guid>https://ikellog.github.io/posts/setbacks/</guid>
       <description>While reading some technical blogs this month, I came across an interesting organization that was dedicated to the improvement of programming and problem solving. After learning more about them, I decided to apply but to my disappointment did not get in. Dealing with setbacks can be hard—just need to continue onward. The application processing was a learning experience in itself, until next time!</description>
     </item>
     
     <item>
       <title>Milestone</title>
-      <link>ikellog.github.io/posts/milestone/</link>
+      <link>https://ikellog.github.io/posts/milestone/</link>
       <pubDate>Thu, 15 Oct 2020 00:00:00 -0700</pubDate>
       
-      <guid>ikellog.github.io/posts/milestone/</guid>
+      <guid>https://ikellog.github.io/posts/milestone/</guid>
       <description>I feel a great milestone has been reached as I&amp;rsquo;ve completed a python online course! It was both challenging and rewarding at the same time. I know there’s much more ahead of me but wanted to celebrate this achievement with a quick post. And onwards we go into the world of problem solving!</description>
     </item>
     
     <item>
       <title>Learning curve</title>
-      <link>ikellog.github.io/posts/learningcurve/</link>
+      <link>https://ikellog.github.io/posts/learningcurve/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 -0700</pubDate>
       
-      <guid>ikellog.github.io/posts/learningcurve/</guid>
+      <guid>https://ikellog.github.io/posts/learningcurve/</guid>
       <description>Throughout the years, I&amp;rsquo;ve read blog post and articles about programming and having now personally experiencing it&amp;ndash;there is definitely a learning curve but like with anything new you learn&amp;ndash;it will be hard at first; move forward and you will be rewarded with new insight and knowledge. And more importantly if you have any self-doubt, find people who can support your learning endevors.(this applies to any subject)</description>
     </item>
     
     <item>
       <title>Python is fun</title>
-      <link>ikellog.github.io/posts/pythonisfun/</link>
+      <link>https://ikellog.github.io/posts/pythonisfun/</link>
       <pubDate>Sat, 15 Aug 2020 00:00:00 -0700</pubDate>
       
-      <guid>ikellog.github.io/posts/pythonisfun/</guid>
+      <guid>https://ikellog.github.io/posts/pythonisfun/</guid>
       <description>In my younger days when I was playing around with the windows command prompt, I remember seeing python in the OS directory but never thought twice what it was or why it was installed—I just figured it was something that made Windows XP work. It&amp;rsquo;s not until now that I noticed everything connecting and the relation to things that I hadn&amp;rsquo;t notice before which feels both interesting and somewhat regreftul. Also, did I mention programming is hard.</description>
     </item>
     
     <item>
       <title>A Hero&#39;s Journey</title>
-      <link>ikellog.github.io/posts/aherosjourney/</link>
+      <link>https://ikellog.github.io/posts/aherosjourney/</link>
       <pubDate>Wed, 15 Jul 2020 00:00:00 -0700</pubDate>
       
-      <guid>ikellog.github.io/posts/aherosjourney/</guid>
+      <guid>https://ikellog.github.io/posts/aherosjourney/</guid>
       <description>I&amp;rsquo;ll start this post with a generic but hopfully motivational quote:
  &amp;ldquo;Life is full of missed opportunities, especially if you don&amp;rsquo;t try, you&amp;rsquo;ll never know what thoes possibilities could be.&amp;quot;&amp;mdash;unknown
  I&amp;rsquo;ve been working full-time since the completion of my bachelor’s back in 2012 and its funny to think that the only thing I wanted then, was to work. Now, having worked for all these years&amp;mdash;school wasn’t so bad (minus the lack of $).</description>
