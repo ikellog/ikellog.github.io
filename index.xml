@@ -2,39 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>James Le Nguyen</title>
-    <link>https://ikellog.github.io/</link>
+    <link>ikellog.github.io/</link>
     <description>Recent content on James Le Nguyen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://ikellog.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Fri, 15 Jan 2021 00:00:00 -0800</lastBuildDate><atom:link href="ikellog.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Year</title>
+      <link>ikellog.github.io/posts/anewyear/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 -0800</pubDate>
+      
+      <guid>ikellog.github.io/posts/anewyear/</guid>
+      <description>2021 comes with it the traditional New year’s resolution and some artificial motivation—had focused on learning SQL syntax and more Python in the meantime. Did I mention I think database are cool!</description>
+    </item>
     
     <item>
-      <title>learning curve</title>
-      <link>https://ikellog.github.io/posts/learningcurve/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <title>Motivation loss</title>
+      <link>ikellog.github.io/posts/motivationloss/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 -0800</pubDate>
       
-      <guid>https://ikellog.github.io/posts/learningcurve/</guid>
+      <guid>ikellog.github.io/posts/motivationloss/</guid>
+      <description>Started a new computer science course but had slowly loss motivation due to the material’s dryness. I’m certain it’s a good course to learn despite the difficulties in staying focus—will have to get back in to in soon. Time is of the essence!</description>
+    </item>
+    
+    <item>
+      <title>Setbacks</title>
+      <link>ikellog.github.io/posts/setbacks/</link>
+      <pubDate>Sun, 15 Nov 2020 00:00:00 -0800</pubDate>
+      
+      <guid>ikellog.github.io/posts/setbacks/</guid>
+      <description>While reading some technical blogs this month, I came across an interesting organization that was dedicated to the improvement of programming and problem solving. After learning more about them, I decided to apply but to my disappointment did not get in. Dealing with setbacks can be hard—just need to continue onward. The application processing was a learning experience in itself, until next time!</description>
+    </item>
+    
+    <item>
+      <title>Milestone</title>
+      <link>ikellog.github.io/posts/milestone/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 -0700</pubDate>
+      
+      <guid>ikellog.github.io/posts/milestone/</guid>
+      <description>I feel a great milestone has been reached as I&amp;rsquo;ve completed a python online course! It was both challenging and rewarding at the same time. I know there’s much more ahead of me but wanted to celebrate this achievement with a quick post. And onwards we go into the world of problem solving!</description>
+    </item>
+    
+    <item>
+      <title>Learning curve</title>
+      <link>ikellog.github.io/posts/learningcurve/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 -0700</pubDate>
+      
+      <guid>ikellog.github.io/posts/learningcurve/</guid>
       <description>Throughout the years, I&amp;rsquo;ve read blog post and articles about programming and having now personally experiencing it&amp;ndash;there is definitely a learning curve but like with anything new you learn&amp;ndash;it will be hard at first; move forward and you will be rewarded with new insight and knowledge. And more importantly if you have any self-doubt, find people who can support your learning endevors.(this applies to any subject)</description>
     </item>
     
     <item>
       <title>Python is fun</title>
-      <link>https://ikellog.github.io/posts/pythonisfun/</link>
-      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <link>ikellog.github.io/posts/pythonisfun/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 -0700</pubDate>
       
-      <guid>https://ikellog.github.io/posts/pythonisfun/</guid>
+      <guid>ikellog.github.io/posts/pythonisfun/</guid>
       <description>In my younger days when I was playing around with the windows command prompt, I remember seeing python in the OS directory but never thought twice what it was or why it was installed—I just figured it was something that made Windows XP work. It&amp;rsquo;s not until now that I noticed everything connecting and the relation to things that I hadn&amp;rsquo;t notice before which feels both interesting and somewhat regreftul. Also, did I mention programming is hard.</description>
     </item>
     
     <item>
       <title>A Hero&#39;s Journey</title>
-      <link>https://ikellog.github.io/posts/aherosjourney/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <link>ikellog.github.io/posts/aherosjourney/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 -0700</pubDate>
       
-      <guid>https://ikellog.github.io/posts/aherosjourney/</guid>
+      <guid>ikellog.github.io/posts/aherosjourney/</guid>
       <description>I&amp;rsquo;ll start this post with a generic but hopfully motivational quote:
  &amp;ldquo;Life is full of missed opportunities, especially if you don&amp;rsquo;t try, you&amp;rsquo;ll never know what thoes possibilities could be.&amp;quot;&amp;mdash;unknown
  I&amp;rsquo;ve been working full-time since the completion of my bachelor’s back in 2012 and its funny to think that the only thing I wanted then, was to work. Now, having worked for all these years&amp;mdash;school wasn’t so bad (minus the lack of $).</description>
@@ -42,31 +74,31 @@
     
     <item>
       <title>about me</title>
-      <link>https://ikellog.github.io/about/</link>
+      <link>ikellog.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ikellog.github.io/about/</guid>
+      <guid>ikellog.github.io/about/</guid>
       <description>Hello there! My name is James. With the help of various online books, videos &amp;amp; MOOC resources, I&amp;rsquo;m a self-taught programmer and currently working on OSSU&amp;rsquo;s curriculum for computer science. You can learn more about my journey on the blog section of this site.
  my story/philosophy After listening to a recent podcast, I was made aware of an obvious concept which I hadn&amp;rsquo;t yet thought too much about, what is &amp;ldquo;a Hero&amp;rsquo;s journey&amp;rdquo;?</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://ikellog.github.io/contact/</link>
+      <link>ikellog.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ikellog.github.io/contact/</guid>
-      <description>Want Contact? Feel free to connect on Linkedin or other social media!</description>
+      <guid>ikellog.github.io/contact/</guid>
+      <description>Want Contact? Feel free to connect on Linkedin!</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://ikellog.github.io/projects/</link>
+      <link>ikellog.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ikellog.github.io/projects/</guid>
-      <description>My Portfolio  a personal blog, the first steps to web dev After some reserach on differnt CMS such as Wordpress, Drupal, &amp;amp; Joomla. I decided to use Hugo (a static site generator) due to it&amp;rsquo;s speed; with a theme by Yusuke Ishimi (for it&amp;rsquo;s clean &amp;amp; simple design) based on hugo-coder.
-   </description>
+      <guid>ikellog.github.io/projects/</guid>
+      <description>My Portfolio a personal blog, the first steps to web dev After some reserach on differnt CMS such as Wordpress, Drupal, &amp;amp; Joomla. I decided to use Hugo (a static site generator) due to it&amp;rsquo;s speed; with a theme by Yusuke Ishimi (for it&amp;rsquo;s clean &amp;amp; simple design) based on hugo-coder.
+ </description>
     </item>
     
   </channel>
