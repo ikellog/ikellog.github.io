@@ -3,48 +3,68 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ikellog.github.io/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+    <loc>ikellog.github.io/</loc>
+    <lastmod>2021-01-15T00:00:00-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ikellog.github.io/posts/learningcurve/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+    <loc>ikellog.github.io/posts/anewyear/</loc>
+    <lastmod>2021-01-15T00:00:00-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ikellog.github.io/posts/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+    <loc>ikellog.github.io/posts/</loc>
+    <lastmod>2021-01-15T00:00:00-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ikellog.github.io/posts/pythonisfun/</loc>
-    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
+    <loc>ikellog.github.io/posts/motivationloss/</loc>
+    <lastmod>2020-12-15T00:00:00-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ikellog.github.io/posts/aherosjourney/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <loc>ikellog.github.io/posts/setbacks/</loc>
+    <lastmod>2020-11-15T00:00:00-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ikellog.github.io/about/</loc>
+    <loc>ikellog.github.io/posts/milestone/</loc>
+    <lastmod>2020-10-15T00:00:00-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ikellog.github.io/categories/</loc>
+    <loc>ikellog.github.io/posts/learningcurve/</loc>
+    <lastmod>2020-09-15T00:00:00-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ikellog.github.io/contact/</loc>
+    <loc>ikellog.github.io/posts/pythonisfun/</loc>
+    <lastmod>2020-08-15T00:00:00-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ikellog.github.io/projects/</loc>
+    <loc>ikellog.github.io/posts/aherosjourney/</loc>
+    <lastmod>2020-07-15T00:00:00-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ikellog.github.io/tags/</loc>
+    <loc>ikellog.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>ikellog.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>ikellog.github.io/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>ikellog.github.io/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>ikellog.github.io/tags/</loc>
   </url>
   
 </urlset>
