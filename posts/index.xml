@@ -6,7 +6,16 @@
     <description>Recent content in Posts on James Le Nguyen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Jan 2021 00:00:00 -0800</lastBuildDate><atom:link href="https://ikellog.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Feb 2021 00:00:00 -0800</lastBuildDate><atom:link href="https://ikellog.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Technical Writing</title>
+      <link>https://ikellog.github.io/posts/technicalwriting/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 -0800</pubDate>
+      
+      <guid>https://ikellog.github.io/posts/technicalwriting/</guid>
+      <description>Similar to playing music, if you’re not practicing daily—you forget things. This was especially true as I couldn’t remember the workflow for this blog, which is somewhat complex as it deals with Hugo, Gitbhub, and Git. After taking some time re-learning the tools, I’m finally back into it. Also, I’ve recently took an interest in technical writing—I&amp;rsquo;m set on using Antora and will have something up and running by next month.</description>
+    </item>
+    
     <item>
       <title>New Year</title>
       <link>https://ikellog.github.io/posts/anewyear/</link>
